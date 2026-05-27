@@ -32,7 +32,9 @@ The "seperateSpeakers" and "vggish" libraries can be downloaded as zip files fro
 - **Mixed mode**: SepFormer + VGGish diarization mask
 
 ## Files
-- `startServer.m` — MATLAB TCP server and HTTP handler
-- `runSeparation.m` — Audio processing pipeline
-- `index.html` — Web interface
+- `startServer.m` - MATLAB TCP server and HTTP handler
+- `runSeparation.m` - Audio processing pipeline
+- `index.html` - HTML Web interface
+- `Catching Up With Friends Audio 2` - audio file for testing *alternating* speakers
+- `2SpeakersSimult` - audio file for testing *simultaneous* speakers
 
